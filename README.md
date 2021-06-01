@@ -1,6 +1,6 @@
 # Virus
-## _A small program_
-## Before reading this readme, add a star ⭐
+## _A small virus program_
+## add a star for more Virus ⭐
 
 ## Develop by SYRQL
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
