@@ -13,4 +13,4 @@
 
 - You are prohibited from reselling this program
 
-**Hoping that you like the plugin**
+**Hoping that you like the program**
